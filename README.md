@@ -1,4 +1,4 @@
-![banner][website](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
+![banner]![website](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
 ### Hi there I'm Stratos.👋
 
 ## I 'm a Software Developer/Engineer , Content Creator , and Full Stack Developer.
