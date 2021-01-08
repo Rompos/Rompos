@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
 
-[banner]: https://raw.githubusercontent.com/Rompos/Rompos/master/banner.png
+[banner]: (https://user-images.githubusercontent.com/64089173/103980140-f3f0a000-5187-11eb-9eb0-ea6ac2b0ffa4.png)
 
 [website]: https://super-heroes-quest.netlify.app
 [youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
