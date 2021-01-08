@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
 ### Hi there I'm Stratos.👋
 
 ## I'm Software Developer 
@@ -11,15 +12,11 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can eat way over my body mass!
 
-[[Stratos Rompos][banner]][website]
-
-![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
+![[Stratos Rompos][banner][website]]
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
-
-
 
 [website]: https://super-heroes-quest.netlify.app
 [youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
