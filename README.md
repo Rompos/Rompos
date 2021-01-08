@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can eat way past my body mass!
 
-[![bg][banner]][website]
+[![Stratos Rompos][banner]][website]
 
-🧠 learning [typescript][typescript]  
 💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
 
 📺 [youtube][youtube] **|** 
-🎥 [discord][discord] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
 
@@ -31,4 +29,4 @@ Here are some ideas to get you started:
 [website]: https://super-heroes-quest.netlify.app
 [youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
 [instagram]: https://instagram.com/stratos_rompos
-[linkedin]: https://linkedin.com/in/stratos-rompos
+[linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
