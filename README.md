@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can eat way over my body mass!
 
-![banner][website]
+[website]
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
