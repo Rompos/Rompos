@@ -15,3 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can eat way past my body mass!
 
+[![bg][banner]][website]
+
+🧠 learning [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
+
+
+📺 [youtube][youtube] **|** 
+🎥 [discord][discord] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] **|**
+
+[banner]: https://raw.githubusercontent.com/Rompos/Rompos/master/banner.png
+
+[website]: https://super-heroes-quest.netlify.app
+[youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
+[instagram]: https://instagram.com/stratos_rompos
+[linkedin]: https://linkedin.com/in/stratos-rompos
