@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can eat way over my body mass!
 
-[![Stratos Rompos]]![banner][website]
+[![Stratos Rompos]][banner][website]
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
