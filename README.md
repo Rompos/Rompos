@@ -1,10 +1,6 @@
 ### Hi there I'm Stratos.👋
 
-## I'm Developer 
-
-Here are some ideas to get you started:
-
-✨ _special_ ✨ repository
+## I'm Software Developer 
 
 - 🔭 I’m currently working on Pixel art Content!
 - 🌱 I’m currently learning Design , Testing 
@@ -13,11 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Computer Hardware upgrades , Full Stack development , Python , Javascript , C++ , C# , Java 
 - 📫 How to reach me: https://www.linkedin.com/in/stratos-rompos-973700150/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I can eat way past my body mass!
+- ⚡ Fun fact: I can eat way over my body mass!
 
 [![Stratos Rompos][banner]][website]
-
-💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
