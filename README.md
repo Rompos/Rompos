@@ -17,7 +17,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
 
-[banner]: (https://githubusercontent.com/64089173/103980140-f3f0a000-5187-11eb-9eb0-ea6ac2b0ffa4.png)
+![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
 
 [website]: https://super-heroes-quest.netlify.app
 [youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
