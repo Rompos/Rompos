@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
-
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
