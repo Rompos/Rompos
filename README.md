@@ -22,3 +22,5 @@
 [youtube]: https://www.youtube.com/results?search_query=Stratosro+Rompos
 [instagram]: https://instagram.com/stratos_rompos
 [linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
