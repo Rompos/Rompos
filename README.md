@@ -24,3 +24,5 @@
 [linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=10&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
