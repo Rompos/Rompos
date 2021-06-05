@@ -3,10 +3,10 @@
 
 ## I 'm a Software Developer/Engineer , Content Creator .
 
-- 🔭 I’m currently working on Pixel art Content!
-- 🌱 I’m currently learning Design , Testing 
-- 👯 I’m looking to collaborate on Creating Content!
-- 🤔 I’m looking for help with Design
+- 🔭 I’m currently working on the Unity platform !
+- 🌱 I’m currently learning Design , Testing , VR , AR !
+- 👯 I’m looking to collaborate on Creating Content !
+- 🤔 I’m looking for help with Design !
 - 💬 Ask me about Computer Hardware Upgrades , Computer Video Games , Python , Javascript , C++ , C# , Java 
 - 📫 How to reach me: https://www.linkedin.com/in/stratos-rompos-973700150/
 - ⚡ Pronouns: He/him
