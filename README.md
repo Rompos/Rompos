@@ -3,11 +3,11 @@
 
 ## I 'm a Software Developer/Engineer , Content Creator .
 
-- 🔭 I’m currently working on the Unity platform !
-- 🌱 I’m currently learning Design , Testing , VR , AR !
+- 🔭 I’m currently working on the Android Studio platform !
+- 🌱 I’m currently learning Kotlin!
 - 👯 I’m looking to collaborate on Creating Content !
 - 🤔 I’m looking for help with Design !
-- 💬 Ask me about Computer Hardware Upgrades , Computer Video Games , Python , Javascript , C++ , C# , Java 
+- 💬 Ask me about Computer Hardware Upgrades , Computer Video Games , Python , Javascript , C++ , C# , Java , Kotlin
 - 📫 How to reach me: https://www.linkedin.com/in/stratos-rompos-973700150/
 - ⚡ Pronouns: He/him
 - 😄 Fun fact: I can eat way over my body mass!
