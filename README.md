@@ -26,3 +26,17 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="90" height="30">
+&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
+&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="90" height="30">
+&nbsp;
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="90" height="30">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90" height="30">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="90" height="30">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="90" height="30">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="90" height="30">
+</p> 
