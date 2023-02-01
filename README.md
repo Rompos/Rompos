@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on __*Creating Content*__!
 - 🤔 I’m looking for help with __*Design*__!
 - 💬 Ask me about __*Computer Hardware Upgrades , Computer Video Games , Python , Javascript , C++ , C# , Java , Kotlin*__!
-- 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__
-- ⚡ Pronouns: He/him
+- 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__ .
+- ⚡ Pronouns: He/him.
 - 😄 Fun fact: I can eat way over my body mass!
 
 
@@ -55,4 +55,11 @@
 <p align="left">
     <img src=https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white width="120" height="30">
     <img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white width="90" height="30">
+</p> 
+
+
+## Database
+<p align="left">
+    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="90" height="30">
+    <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white width="90" height="30">
 </p> 
