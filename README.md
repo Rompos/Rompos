@@ -25,7 +25,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rompos&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)
+![Top Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rompos&theme=synthwave)
+![Top Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rompos&theme=vue)
 
 ## Coding
 <p align="left">
