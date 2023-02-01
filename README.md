@@ -8,7 +8,7 @@
 
 ## I 'm a __*Software Developer , Content Creator*__.
 
-- 🔭 I’m currently working on the __*Android Studio platform*__!
+- 🔭 I’m currently working on __*mobile apps*__!
 - 🌱 I’m currently learning __*Kotlin*__!
 - 👯 I’m looking to collaborate on __*Creating Content*__!
 - 🤔 I’m looking for help with __*Design*__!
