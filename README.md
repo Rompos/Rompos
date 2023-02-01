@@ -1,7 +1,12 @@
-![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
-### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
+[website]: https://super-heroes-quest.netlify.app
+[youtube]: https://www.youtube.com/results?search_query=Stratos+Rompos
+[instagram]: https://instagram.com/stratos_rompos
+[linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
 
-## I 'm a __*Software Developer/Engineer , Content Creator*__.
+![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
+### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos) 🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
+
+## I 'm a __*Software Developer , Content Creator*__.
 
 - 🔭 I’m currently working on the __*Android Studio platform*__!
 - 🌱 I’m currently learning __*Kotlin*__!
@@ -19,16 +24,6 @@
 - 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__ .
 - ⚡ Pronouns: He/him.
 - 😄 Fun fact: I can eat way over my body mass!
-
-🏡 [website][website] **|**
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
-
-[website]: https://super-heroes-quest.netlify.app
-[youtube]: https://www.youtube.com/results?search_query=Stratos+Rompos
-[instagram]: https://instagram.com/stratos_rompos
-[linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)
 ![Top Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rompos&theme=react)
