@@ -26,7 +26,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)
-![Langs_Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&theme=blue-green)
 ![Top Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rompos&theme=react)
 ![Top Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rompos&theme=vue)
 
