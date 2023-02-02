@@ -11,18 +11,14 @@
 - 🔭 I’m currently working on __*mobile apps*__!
 - 🌱 I’m currently learning __*Kotlin*__!
 - 👯 I’m looking to collaborate on __*Creating Content*__!
-- 🤔 I’m looking for help with __*Design*__!
 - 💬 Ask me about 
    - __*PC Hardware*__ , 
    - __*Video Games*__ , 
-   - __*Python*__ , 
-   - __*Javascript*__ , 
-   - __*C++*__ , 
+   - __*Unity*__ , 
    - __*C#*__ , 
    - __*Java*__ , 
    - __*Kotlin*__ .
 - 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__ .
-- ⚡ Pronouns: He/him.
 - 😄 Fun fact: I can eat way over my body mass!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)
