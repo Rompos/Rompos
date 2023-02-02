@@ -38,23 +38,23 @@
 
 ## Design
 <p align="left">
-   <img src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black width="120" height="30">
-   <img src=https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white width="90" height="30">
-   <img src=https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white width="90" height="30">
-   <img src=https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white width="90" height="30">
-   <img src=https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B width="90" height="30">
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="120" height="30">
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width="90" height="30">
+   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" width="90" height="30">
+   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" width="90" height="30">
+   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" width="90" height="30">
 </p> 
 
 ## Platform
 <p align="left">
-   <img src=https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white width="120" height="30">
-   <img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white width="90" height="30">
+   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" width="120" height="30">
+   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="90" height="30">
 </p> 
 
 ## Database
 <p align="left">
-   <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="90" height="30">
-   <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white width="90" height="30">
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="30">
+   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="90" height="30">
 </p>
 
 ## Repositories
