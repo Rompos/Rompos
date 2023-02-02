@@ -56,3 +56,20 @@
     <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="90" height="30">
     <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white width="90" height="30">
 </p> 
+
+## Repositories
+<p align="left">
+   [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
+   [7 Min Workout](https://github.com/Rompos/7MinWorkout)
+   [Date of Birth Calculator](https://github.com/Rompos/DateOfBirthCalculator)
+   [Basic Calculator](https://github.com/Rompos/BasicCalculator)
+   [Basic Quiz](https://github.com/Rompos/BasicQuizApp)
+   [Asteroid Avoider](https://github.com/Rompos/AsteroidAvoider)
+   [Angry Birds Clone](https://github.com/Rompos/AngryBirds_Clone)
+   [VR Room](https://github.com/Rompos/Unity_VR_Room)
+   [VR Microgames](https://github.com/Rompos/VR_Microgame_Unity)
+   [Programming Theory](https://github.com/Rompos/Programming_Theory_Unity)
+   [CRUD C-Sharp](https://github.com/Rompos/CRUD-C-Sharp-Application)
+   [Memory Matching Game](https://github.com/Rompos/Memory-Matching-Game)
+   [Blazor Matching Game](https://github.com/Rompos/Blazor-C-Sharp-Fruit-Matching-Game)
+</p> 
