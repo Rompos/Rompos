@@ -52,9 +52,10 @@
 <p align="left">
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="30">
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="90" height="30">
-</p>
+
 
 ## Repositories
+
    1. [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
    2. [7 Min Workout](https://github.com/Rompos/7MinWorkout)
    3. [Date of Birth Calculator](https://github.com/Rompos/DateOfBirthCalculator)
@@ -68,3 +69,4 @@
    11. [CRUD C-Sharp](https://github.com/Rompos/CRUD-C-Sharp-Application)
    12. [Memory Matching Game](https://github.com/Rompos/Memory-Matching-Game)
    13. [Blazor Matching Game](https://github.com/Rompos/Blazor-C-Sharp-Fruit-Matching-Game)
+</p>
