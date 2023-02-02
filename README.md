@@ -3,7 +3,9 @@
 [instagram]: https://instagram.com/stratos_rompos
 [linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
 
-![banner](https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png" width="768" height="320">
+</p>
 
 ### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos) 🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
 
@@ -22,8 +24,10 @@
 - 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__ .
 - 😄 Fun fact: I can eat way over my body mass!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rompos&langs_count=10&theme=react&layout=compact)
-![Top Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rompos&theme=react)
+![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
+![Top Langs_by_Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rompos&theme=gruvbox)
+![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
+![Top_Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rompos&theme=gruvbox&utcOffset=8)
 
 ## Coding
 <p align="left">
