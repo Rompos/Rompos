@@ -52,10 +52,7 @@
 </p> 
 
 ## Database
-<p align="left">
-    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="90" height="30">
-    <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white width="90" height="30">
-</p> 
+<p align="left"><img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="90" height="30"><img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white width="90" height="30"></p> 
 
 ## Repositories
    1. [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
