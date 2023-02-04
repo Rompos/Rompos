@@ -34,7 +34,7 @@
 <!-- Kotlin Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" align="left" alt="Kotlin" width="35px" />
 <!-- Android Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" align="left" alt="android" width="35" />
+<img src="https://github.com/Rompos/Rompos/blob/main/android-original.svg" align="left" alt="android" width="35" />
 <!-- Java Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" align="left" alt="Java" width="35px" />
 <!-- Python Image -->
