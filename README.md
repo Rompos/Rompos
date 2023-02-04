@@ -4,7 +4,7 @@
 [linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png" width="768" height="320">
+<img src="https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png" width="1024" height="320">
 </p>
 
 ### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos) 🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
@@ -21,14 +21,63 @@
    - __*C#*__ , 
    - __*Java*__ , 
    - __*Kotlin*__ .
-- 📫 How to reach me: __*https://www.linkedin.com/in/stratos-rompos-973700150/*__ .
+- 📫 How to reach me: __*stratosrom@hotmail.com*__ .
 - 😄 Fun fact: I can eat way over my body mass!
 
 ![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
-![Top Langs_by_Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rompos&theme=gruvbox)
 ![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
-![Top_Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rompos&theme=gruvbox&utcOffset=8)
 
+<!-- C# Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="left" alt="C#" width="35px" />
+<!-- Kotlin Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" align="left" alt="Kotlin" width="35px" />
+<!-- Android Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" align="left" alt="android" width="35" />
+<!-- Java Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" align="left" alt="Java" width="35px" />
+<!-- Python Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="left" alt="Python" width="35px" />
+<!-- CSS Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" align="left" alt="android_studio" width="35" />
+<!-- HTML5 Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Javascript Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Inkspace Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Blender Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Photoshop Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" align="left" alt="android_studio" width="35" />
+<!-- Gimp Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" align="left" alt="android_studio" width="35" />
+<br><br>
+<!-- Unity Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Unreal Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Jetbrains Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Visual Studio Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="android_studio" width="35" />
+<!-- Visual Studio Code Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Android Studio Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Github Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Gitlab Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" align="left" alt="android_studio" width="35" />
+<!-- Git Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="android_studio" width="35" />
+<!-- SQL Lite Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" align="left" alt="android_studio" width="35" />
+<!-- MySQL Image -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="left" alt="android_studio" width="35" />
+
+<br><br>
+
+<!--
 ## Coding
 <p align="left">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="90" height="30">
@@ -61,6 +110,7 @@
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="30">
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="90" height="30"> 
 </p>
+-->
 
 ## Repositories
    1. [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
@@ -76,4 +126,3 @@
    11. [CRUD C-Sharp](https://github.com/Rompos/CRUD-C-Sharp-Application)
    12. [Memory Matching Game](https://github.com/Rompos/Memory-Matching-Game)
    13. [Blazor Matching Game](https://github.com/Rompos/Blazor-C-Sharp-Fruit-Matching-Game)
-
