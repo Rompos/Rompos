@@ -27,6 +27,7 @@
 ![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
 ![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
 
+## Tools of Trade
 <p align="left">
 <!-- C# Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="left" alt="C#" width="35px" />
