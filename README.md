@@ -27,6 +27,7 @@
 ![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
 ![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
 
+<p align="left">
 <!-- C# Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="left" alt="C#" width="35px" />
 <!-- Kotlin Image -->
@@ -76,7 +77,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" align="left" alt="SQL Lite" width="35" />
 <!-- MySQL Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="left" alt="MySQL" width="35" />
-
+</p>
 <br><br>
 
 <!--
