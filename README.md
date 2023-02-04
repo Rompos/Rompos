@@ -53,9 +53,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" align="left" alt="Photoshop" width="35" />
 <!-- Gimp Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" align="left" alt="Gimp" width="35" />
+</p>
 
 <br><br>
 
+<p align="left">
 <!-- Unity Image -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" align="left" alt="Unity" width="35" />
 <!-- Unreal Image -->
