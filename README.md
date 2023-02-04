@@ -27,63 +27,6 @@
 ![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
 ![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
 
-## Tools of Trade
-<p align="left">
-<!-- C# Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="left" alt="C#" width="35px" />
-<!-- Kotlin Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" align="left" alt="Kotlin" width="35px" />
-<!-- Android Image -->
-<img src="https://github.com/Rompos/Rompos/blob/main/android-original.svg" align="left" alt="android" width="35" />
-<!-- Java Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" align="left" alt="Java" width="35px" />
-<!-- Python Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="left" alt="Python" width="35px" />
-<!-- CSS Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" align="left" alt="CSS" width="35" />
-<!-- HTML5 Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="left" alt="HTML5" width="35" />
-<!-- Javascript Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="35" />
-<!-- Inkspace Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" align="left" alt="Inkspace" width="35" />
-<!-- Blender Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" align="left" alt="Blender" width="35" />
-<!-- Photoshop Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" align="left" alt="Photoshop" width="35" />
-<!-- Gimp Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" align="left" alt="Gimp" width="35" />
-</p>
-
-<br><br>
-
-<p align="left">
-<!-- Unity Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" align="left" alt="Unity" width="35" />
-<!-- Unreal Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" align="left" alt="Unreal" width="35" />
-<!-- Jetbrains Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" align="left" alt="Jetbrains" width="35" />
-<!-- Visual Studio Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="Visual Studio" width="35" />
-<!-- Visual Studio Code Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left" alt="Visual Studio Code" width="35" />
-<!-- Android Studio Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" align="left" alt="android_studio" width="35" />
-<!-- Github Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" align="left" alt="Github" width="35" />
-<!-- Gitlab Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" align="left" alt="Gitlab" width="35" />
-<!-- Git Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="Git" width="35" />
-<!-- SQL Lite Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" align="left" alt="SQL Lite" width="35" />
-<!-- MySQL Image -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="left" alt="MySQL" width="35" />
-</p>
-<br><br>
-
-<!--
 ## Coding
 <p align="left">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="90" height="30">
@@ -116,7 +59,6 @@
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="30">
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="90" height="30"> 
 </p>
--->
 
 ## Repositories
    1. [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
