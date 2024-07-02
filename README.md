@@ -7,20 +7,14 @@
 <img src="https://user-images.githubusercontent.com/64089173/103980891-66ae4b00-5189-11eb-8be3-1a865bd90a8d.png" width="1024" height="320">
 </p>
 
-### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=rompos.rompos) 🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
+### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
 
 ## I 'm a __*Software Developer , Content Creator*__.
 
-- 🔭 I’m currently working on __*mobile apps*__!
-- 🌱 I’m currently learning __*Kotlin*__!
+- 🔭 I’m currently working on __*web skills*__!
+- 🌱 I’m currently learning __*new web skills*__!
 - 👯 I’m looking to collaborate on __*Creating Content*__!
-- 💬 Ask me about 
-   - __*PC Hardware*__ , 
-   - __*Video Games*__ , 
-   - __*Unity*__ , 
-   - __*C#*__ , 
-   - __*Java*__ , 
-   - __*Kotlin*__ .
+- 💬 Ask me about - __*PC Hardware*__ , - __*Video Games*__ , - __*Unity*__ , - __*C#*__ ,.
 - 📫 How to reach me: __*stratosrom@hotmail.com*__ .
 - 😄 Fun fact: I can eat way over my body mass!
 
