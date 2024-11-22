@@ -9,7 +9,7 @@
 
 ### Hi there I'm Stratos.👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  🏡 [website][website] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|**
 
-## I 'm a __*Software Developer , Content Creator*__.
+## I 'm a __*Software Developer*__.
 
 - 🔭 I’m currently working on __*web skills*__!
 - 🌱 I’m currently learning __*new web skills*__!
@@ -19,7 +19,7 @@
 - 😄 Fun fact: I can eat way over my body mass!
 
 ![Top Langs_by_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rompos&theme=gruvbox)
-/**![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)*/
+![Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rompos&theme=gruvbox)
 
 ## Coding
 <p align="left">
