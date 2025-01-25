@@ -1,4 +1,4 @@
-<!--[website]: https://rompos.netlify.app/ -->
+<!---[website]: https://rompos.netlify.app/ --->
 [youtube]: https://www.youtube.com/results?search_query=Stratos+Rompos
 [instagram]: https://instagram.com/stratos_rompos
 [linkedin]: https://www.linkedin.com/in/stratos-rompos-973700150/
@@ -11,8 +11,8 @@
 
 ## I 'm a __*Software Developer*__.
 
-- 🔭 I’m currently working on __*web skills*__!
-- 🌱 I’m currently learning __*new web skills*__!
+- 🔭 I’m currently working on __*game development skills*__!
+- 🌱 I’m currently learning __*new game development skills*__!
 - 👯 I’m looking to collaborate on __*Creating Content*__!
 - 💬 Ask me about - __*PC Hardware*__ , - __*Video Games*__ , - __*Unity*__ , - __*C#*__ ,.
 - 📫 How to reach me: __*stratosrom@hotmail.com*__ .
