@@ -56,10 +56,10 @@
 ## Repositories
    1. [Super Heroes Quest](https://github.com/Rompos/SuperHeroesQuest)
    2. [7 Min Workout](https://github.com/Rompos/7MinWorkout)
-/**3. [Date of Birth Calculator](https://github.com/Rompos/DateOfBirthCalculator) **/
-/**4. [Basic Calculator](https://github.com/Rompos/BasicCalculator) **/
-   5. [Basic Quiz](https://github.com/Rompos/BasicQuizApp) **/
-/**6. [Asteroid Avoider](https://github.com/Rompos/AsteroidAvoider)
+</**3. [Date of Birth Calculator](https://github.com/Rompos/DateOfBirthCalculator) **/>
+</**4. [Basic Calculator](https://github.com/Rompos/BasicCalculator) **/>
+   5. [Basic Quiz](https://github.com/Rompos/BasicQuizApp)
+</**6. [Asteroid Avoider](https://github.com/Rompos/AsteroidAvoider) **/>
 /**7. [Angry Birds Clone](https://github.com/Rompos/AngryBirds_Clone)
 /**8. [VR Room](https://github.com/Rompos/Unity_VR_Room)
 /**9. [VR Microgames](https://github.com/Rompos/VR_Microgame_Unity)
