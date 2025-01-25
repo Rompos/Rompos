@@ -58,7 +58,7 @@
    2. [7 Min Workout](https://github.com/Rompos/7MinWorkout)
 <!--3. [Date of Birth Calculator](https://github.com/Rompos/DateOfBirthCalculator) -->
 <!--4. [Basic Calculator](https://github.com/Rompos/BasicCalculator) -->
-   5. [Basic Quiz](https://github.com/Rompos/BasicQuizApp)
+   3. [Basic Quiz](https://github.com/Rompos/BasicQuizApp)
 <!--6. [Asteroid Avoider](https://github.com/Rompos/AsteroidAvoider) -->
 <!--7. [Angry Birds Clone](https://github.com/Rompos/AngryBirds_Clone) -->
 <!--8. [VR Room](https://github.com/Rompos/Unity_VR_Room) -->
@@ -67,5 +67,5 @@
 <!--11. [CRUD C-Sharp](https://github.com/Rompos/CRUD-C-Sharp-Application) -->
 <!--12. [Memory Matching Game](https://github.com/Rompos/Memory-Matching-Game) -->
 <!--13. [Blazor Matching Game](https://github.com/Rompos/Blazor-C-Sharp-Fruit-Matching-Game) -->
-   14. [Educational Games](https://github.com/Rompos/Thesis)
-   15. [GPS_Navigation_System](https://github.com/Rompos/GPS_Navigation)
+   4. [Educational Games](https://github.com/Rompos/Thesis)
+   5. [GPS_Navigation_System](https://github.com/Rompos/GPS_Navigation)
